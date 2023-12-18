@@ -15,11 +15,13 @@ trojan://telegram-id-privatevpns@18.200.84.226:22222?alpn=http%2F1.1&headerType=
 trojan://telegram-id-directvpn@35.180.241.20:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣1️⃣
 trojan://telegram-id-directvpn@13.39.135.133:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣2️⃣
 trojan://telegram-id-directvpn@51.20.11.185:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | SE🇸🇪 | 0️⃣3️⃣
-trojan://telegram-id-directvpn@51.20.197.169:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | SE🇸🇪 | 0️⃣4️⃣
 trojan://c0d04c20-99c9-11ee-be8b-1239d0255272@de1.test3.net:443?headerType=none&security=tls&sni=zula.ir&type=tcp#رایگان | TROJAN | @v2ray1_ng | DE🇩🇪 | 0️⃣1️⃣
 trojan://2bcd4a9d-67eb-40ac-b67c-ba851f1eb5d3@fr1-t.sshmax.xyz:80?headerType=none&security=tls&sni=fr1-t.sshmax.xyz&type=tcp#رایگان | TROJAN | @v2ray1_ng | FR🇫🇷 | 0️⃣2️⃣
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@64.110.90.224:40003?allowInsecure=1#رایگان | TROJAN | @yaney_01 | KR🇰🇷 | 0️⃣1️⃣
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@68.233.121.121:40003?allowInsecure=1#رایگان | TROJAN | @yaney_01 | CA🇨🇦 | 0️⃣2️⃣
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@68.233.121.121:40004?allowInsecure=1#رایگان | TROJAN | @yaney_01 | CA🇨🇦 | 0️⃣3️⃣
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@64.110.90.224:40004?allowInsecure=1#رایگان | TROJAN | @yaney_01 | KR🇰🇷 | 0️⃣4️⃣
+trojan://telegram-id-directvpn@3.139.124.96:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#رایگان | TROJAN | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣
+trojan://telegram-id-privatevpns@35.181.247.1:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#رایگان | TROJAN | @forwardv2ray | FR🇫🇷 | 0️⃣2️⃣
+trojan://telegram-id-privatevpns@3.70.32.217:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#رایگان | TROJAN | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣
 trojan://d07a02a06191c99f@54.168.244.142:3306?path=%2Fgateway%2Fconnect&security=tls&sni=n2.gladns.com&type=ws#رایگان | TROJAN | @kingofilter | JP🇯🇵 | 0️⃣1️⃣
