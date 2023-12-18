@@ -106,7 +106,9 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "GB🇬🇧",
-                "US🇺🇸"
+                "US🇺🇸",
+                "NL🇳🇱",
+                "HK🇭🇰"
             ]
         },
         {
@@ -115,7 +117,9 @@
             "outbounds": [
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣2️⃣",
+                "رایگان | SS | @proxy_mtm | HK🇭🇰 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -137,6 +141,26 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "NL🇳🇱",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣2️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "HK🇭🇰",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @proxy_mtm | HK🇭🇰 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -169,6 +193,26 @@
             "server_port": 25679,
             "method": "chacha20-ietf-poly1305",
             "password": "d9632f40-cf04-4a81-976d-ea0331f498bf",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣2️⃣",
+            "type": "shadowsocks",
+            "server": "45.87.153.246",
+            "server_port": 6199,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f7EI0dGWQM42T8gwN9CZIj",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @proxy_mtm | HK🇭🇰 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "185.74.222.246",
+            "server_port": 47894,
+            "method": "chacha20-ietf-poly1305",
+            "password": "638faed1-41cd-442e-bcf2-72f4644200b0",
             "plugin": "",
             "plugin_opts": ""
         },
