@@ -114,8 +114,8 @@
                 "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | SS | @yaney_01 | KR🇰🇷 | 0️⃣1️⃣",
-                "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣1️⃣",
+                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @proxy_mtm | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | IT🇮🇹 | 0️⃣2️⃣"
             ]
@@ -128,8 +128,8 @@
                 "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | SS | @yaney_01 | KR🇰🇷 | 0️⃣1️⃣",
-                "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣1️⃣",
+                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @proxy_mtm | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | IT🇮🇹 | 0️⃣2️⃣"
             ],
@@ -178,17 +178,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @yaney_01 | KR🇰🇷 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "43.201.56.214",
+            "server": "series-a2.samanehha.co",
             "server_port": 443,
-            "method": "aes-256-cfb",
-            "password": "amazonskr05",
+            "method": "chacha20-ietf-poly1305",
+            "password": "mps3FwmDjLrWaOVg",
             "plugin": "",
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "beacomf.xyz",
             "server_port": 8080,
