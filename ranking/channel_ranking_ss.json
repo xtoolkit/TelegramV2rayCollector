@@ -1,12 +1,12 @@
 {
-    "date": "2023-12-22 16:05:59",
+    "date": "2023-12-22 16:55:47",
     "points": {
-        "VmessProtocol": 25.99790154801875,
-        "FAKEOFTVC": 15.249550953996335,
-        "yaney_01": 15.102189839819887,
-        "forwardv2ray": 9.200901178158162,
-        "proxyymeliii": 9.009393225591603,
+        "VmessProtocol": 28.086467051331304,
+        "FAKEOFTVC": 16.267700178596677,
+        "yaney_01": 16.15977290058766,
+        "proxyymeliii": 11.009395633970836,
+        "forwardv2ray": 10.233348885494284,
         "kingofilter": 7.080518303562281,
-        "V2rayCollectorDonate": 1.003553918420218
+        "V2rayCollectorDonate": 2.0074971868177407
     }
 }
