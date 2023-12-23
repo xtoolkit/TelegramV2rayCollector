@@ -107,9 +107,9 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "GB🇬🇧",
-                "IT🇮🇹",
                 "IS🇮🇸",
                 "NL🇳🇱",
+                "CH🇨🇭",
                 "SE🇸🇪"
             ]
         },
@@ -119,9 +119,10 @@
             "outbounds": [
                 "رایگان | SS | @V2rayCollectorDonate | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @V2rayCollectorDonate | IT🇮🇹 | 0️⃣3️⃣",
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | IS🇮🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | CH🇨🇭 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -133,17 +134,8 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @V2rayCollectorDonate | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "IT🇮🇹",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @V2rayCollectorDonate | IT🇮🇹 | 0️⃣3️⃣"
+                "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -164,6 +156,16 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣2️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "CH🇨🇭",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @forwardv2ray | CH🇨🇭 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -200,12 +202,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @V2rayCollectorDonate | IT🇮🇹 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "it.fanqiecloud.top",
-            "server_port": 22802,
+            "server": "52.142.146.57",
+            "server_port": 50395,
             "method": "chacha20-ietf-poly1305",
-            "password": "6650e650-627e-47a5-933a-05fe86a293ba",
+            "password": "zpgPBiYXEhOwgwpCTaoTui",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -226,6 +228,16 @@
             "server_port": 1165,
             "method": "chacha20-ietf-poly1305",
             "password": "0cAOTNuOqZQuK1c9-mCXJQ",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @forwardv2ray | CH🇨🇭 | 0️⃣2️⃣",
+            "type": "shadowsocks",
+            "server": "94.131.12.58",
+            "server_port": 26669,
+            "method": "chacha20-ietf-poly1305",
+            "password": "B0ry56X2AxfFgcgI7sHDWD",
             "plugin": "",
             "plugin_opts": ""
         },
