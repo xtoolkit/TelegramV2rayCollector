@@ -1,14 +1,14 @@
 {
-    "date": "2023-12-23 14:49:37",
+    "date": "2023-12-23 16:03:04",
     "points": {
-        "PrivateVPNs": 97.09080502675371,
-        "yaney_01": 74.9851496590126,
-        "DirectVPN": 73.76318689956294,
+        "PrivateVPNs": 104.17402174344875,
+        "DirectVPN": 81.84486013742406,
+        "yaney_01": 80.21132652979449,
         "VmessProtocol": 26.044800587612208,
-        "kingofilter": 18.142942900536738,
-        "oneclickvpnkeys": 18.142835514923746,
-        "V2rayCollectorDonate": 14.099374546991866,
-        "forwardv2ray": 6.122711350175644,
-        "ConfigsHUB": 5.059734196194368
+        "oneclickvpnkeys": 19.156694292216468,
+        "kingofilter": 19.149860900359826,
+        "V2rayCollectorDonate": 15.192709027887839,
+        "forwardv2ray": 7.146502012572408,
+        "ConfigsHUB": 7.095501443898293
     }
 }
