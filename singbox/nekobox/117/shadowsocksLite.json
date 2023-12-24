@@ -107,11 +107,12 @@
                 "URL-TEST | رایگان",
                 "رایگان | SS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣3️⃣",
+                "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣4️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣5️⃣",
-                "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣6️⃣",
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | CH🇨🇭 | 0️⃣2️⃣"
+                "رایگان | SS | @VmessProtocol | CH🇨🇭 | 0️⃣2️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣"
             ]
         },
         {
@@ -120,11 +121,12 @@
             "outbounds": [
                 "رایگان | SS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣3️⃣",
+                "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣4️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣5️⃣",
-                "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣6️⃣",
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | CH🇨🇭 | 0️⃣2️⃣"
+                "رایگان | SS | @VmessProtocol | CH🇨🇭 | 0️⃣2️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -151,7 +153,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣4️⃣",
             "type": "shadowsocks",
             "server": "tr.sabz.top",
             "server_port": 6568,
@@ -161,7 +163,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣6️⃣",
+            "tag": "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "tr.sabz.top",
             "server_port": 32111,
@@ -197,6 +199,16 @@
             "server_port": 26669,
             "method": "chacha20-ietf-poly1305",
             "password": "B0ry56X2AxfFgcgI7sHDWD",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
+            "type": "shadowsocks",
+            "server": "52.142.146.57",
+            "server_port": 50395,
+            "method": "chacha20-ietf-poly1305",
+            "password": "zpgPBiYXEhOwgwpCTaoTui",
             "plugin": "",
             "plugin_opts": ""
         },
