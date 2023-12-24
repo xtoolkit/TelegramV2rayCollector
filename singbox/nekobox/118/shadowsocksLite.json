@@ -112,16 +112,15 @@
                 "URL-TEST | رایگان",
                 "رایگان | SS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣3️⃣",
-                "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣4️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣5️⃣",
+                "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣6️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣7️⃣",
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | SG🇸🇬 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | TW🇹🇼 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | CH🇨🇭 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | SS | @yaney_01 | SG🇸🇬 | 0️⃣1️⃣",
-                "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣1️⃣"
+                "رایگان | SS | @yaney_01 | SG🇸🇬 | 0️⃣1️⃣"
             ]
         },
         {
@@ -130,16 +129,15 @@
             "outbounds": [
                 "رایگان | SS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣3️⃣",
-                "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣4️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣5️⃣",
+                "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣6️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣7️⃣",
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | SG🇸🇬 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | TW🇹🇼 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | CH🇨🇭 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | SS | @yaney_01 | SG🇸🇬 | 0️⃣1️⃣",
-                "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣1️⃣"
+                "رایگان | SS | @yaney_01 | SG🇸🇬 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -166,7 +164,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣5️⃣",
+            "type": "shadowsocks",
+            "server": "tr.sabz.top",
+            "server_port": 6568,
+            "method": "aes-128-gcm",
+            "password": "DaUvXTuz5ok9V+GDZOB4EXnbOBigX6B7Fn\/oR4HEF\/Q=",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣6️⃣",
             "type": "shadowsocks",
             "server": "tr.sabz.top",
             "server_port": 32111,
@@ -176,22 +184,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣5️⃣",
-            "type": "shadowsocks",
-            "server": "tr.sabz.top",
-            "server_port": 32111,
-            "method": "aes-128-gcm",
-            "password": "Ds34101\/BHUUDoOnmYL\/4qcq7SbX1\/gfh+ZT\/zzqw4c=",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
             "tag": "رایگان | SS | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣7️⃣",
             "type": "shadowsocks",
             "server": "tr.sabz.top",
             "server_port": 32111,
             "method": "aes-128-gcm",
-            "password": "O4yCR6odyKFEuh8JWXpUtCBBC7k\/0TAmZJ2sD72GXnk=",
+            "password": "Ds34101\/BHUUDoOnmYL\/4qcq7SbX1\/gfh+ZT\/zzqw4c=",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -252,16 +250,6 @@
             "server_port": 443,
             "method": "aes-256-cfb",
             "password": "amazonskr05",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "beacomf.xyz",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "T1pb7XxxrolvPSb0u2xSOA",
             "plugin": "",
             "plugin_opts": ""
         },
