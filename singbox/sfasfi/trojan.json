@@ -133,7 +133,6 @@
                 "رایگان | TROJAN | @yaney_01 | KR🇰🇷 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @yaney_01 | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @yaney_01 | CA🇨🇦 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @kingofilter | JP🇯🇵 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -202,8 +201,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | TROJAN | @yaney_01 | CA🇨🇦 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @yaney_01 | CA🇨🇦 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣"
+                "رایگان | TROJAN | @yaney_01 | CA🇨🇦 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -466,34 +464,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "tunnel.vpns.fun",
-            "server_port": 2053,
-            "password": "Q0Jqz6dchw",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "vilnius.vpns.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/cdnmui",
-                "headers": {
-                    "Host": "vilnius.vpns.fun"
-                }
             }
         },
         {
