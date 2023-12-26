@@ -106,28 +106,40 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
+                "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 0️⃣1️⃣",
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @yaney_01 | NL🇳🇱 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | LT🇱🇹 | 0️⃣1️⃣"
+                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣1️⃣"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
+                "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 0️⃣1️⃣",
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @yaney_01 | NL🇳🇱 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | LT🇱🇹 | 0️⃣1️⃣"
+                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
+        },
+        {
+            "tag": "رایگان | SS | @V2rayCollectorDonate | LT🇱🇹 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "tvc.sabz.top",
+            "server_port": 15171,
+            "method": "aes-128-gcm",
+            "password": "rct9lNBCpv79OOcJmjIZ0mHxGSWnn0DXmMPgtBeQqztu",
+            "plugin": "",
+            "plugin_opts": ""
         },
         {
             "tag": "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
@@ -180,12 +192,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | LT🇱🇹 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "tvc.sabz.top",
-            "server_port": 15171,
-            "method": "aes-128-gcm",
-            "password": "rct9lNBCpv79OOcJmjIZ0mHxGSWnn0DXmMPgtBeQqztu",
+            "server": "series-a2-me.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Bog0ELmMM9DSxDdQ",
             "plugin": "",
             "plugin_opts": ""
         },
