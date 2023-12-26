@@ -110,9 +110,7 @@
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣2️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | SS | @yaney_01 | NL🇳🇱 | 0️⃣1️⃣",
-                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣1️⃣"
+                "رایگان | SS | @yaney_01 | NL🇳🇱 | 0️⃣1️⃣"
             ]
         },
         {
@@ -123,9 +121,7 @@
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣2️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | SS | @yaney_01 | NL🇳🇱 | 0️⃣1️⃣",
-                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣1️⃣"
+                "رایگان | SS | @yaney_01 | NL🇳🇱 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -172,32 +168,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
-            "type": "shadowsocks",
-            "server": "52.142.146.57",
-            "server_port": 50395,
-            "method": "chacha20-ietf-poly1305",
-            "password": "zpgPBiYXEhOwgwpCTaoTui",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
             "tag": "رایگان | SS | @yaney_01 | NL🇳🇱 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "45.87.154.143",
             "server_port": 1165,
             "method": "chacha20-ietf-poly1305",
             "password": "0cAOTNuOqZQuK1c9-mCXJQ",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "series-a2-me.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Bog0ELmMM9DSxDdQ",
             "plugin": "",
             "plugin_opts": ""
         },
