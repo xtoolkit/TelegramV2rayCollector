@@ -109,8 +109,7 @@
                 "GB🇬🇧",
                 "RU🇷🇺",
                 "AT🇦🇹",
-                "JP🇯🇵",
-                "FR🇫🇷"
+                "NL🇳🇱"
             ]
         },
         {
@@ -118,11 +117,12 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣2️⃣",
-                "رایگان | SS | @yaney_01 | JP🇯🇵 | 0️⃣1️⃣",
-                "رایگان | SS | @yaney_01 | FR🇫🇷 | 0️⃣2️⃣"
+                "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣3️⃣",
+                "رایگان | SS | @yaney_01 | NL🇳🇱 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -133,7 +133,9 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣"
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -153,27 +155,17 @@
             "tag": "AT🇦🇹",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣2️⃣"
+                "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "JP🇯🇵",
+            "tag": "NL🇳🇱",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @yaney_01 | JP🇯🇵 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "FR🇫🇷",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @yaney_01 | FR🇫🇷 | 0️⃣2️⃣"
+                "رایگان | SS | @yaney_01 | NL🇳🇱 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -190,12 +182,32 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
+            "type": "shadowsocks",
+            "server": "series-a2-me.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Bog0ELmMM9DSxDdQ",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
             "type": "shadowsocks",
             "server": "52.142.146.57",
             "server_port": 50395,
             "method": "chacha20-ietf-poly1305",
             "password": "zpgPBiYXEhOwgwpCTaoTui",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "series-a1.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "W74XFALLLuw6m5IA",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -210,7 +222,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "5.181.21.19",
             "server_port": 8388,
@@ -220,22 +232,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @yaney_01 | JP🇯🇵 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @yaney_01 | NL🇳🇱 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "13.230.132.209",
-            "server_port": 443,
-            "method": "aes-256-cfb",
-            "password": "amazonskr05",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @yaney_01 | FR🇫🇷 | 0️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "135.125.172.153",
-            "server_port": 443,
-            "method": "aes-256-cfb",
-            "password": "asdKkaskJKfnsa",
+            "server": "45.87.154.143",
+            "server_port": 1165,
+            "method": "chacha20-ietf-poly1305",
+            "password": "0cAOTNuOqZQuK1c9-mCXJQ",
             "plugin": "",
             "plugin_opts": ""
         },
