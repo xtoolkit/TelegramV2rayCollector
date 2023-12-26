@@ -116,11 +116,9 @@
                 "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | SG🇸🇬 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | TW🇹🇼 | 0️⃣4️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣",
                 "رایگان | SS | @yaney_01 | JP🇯🇵 | 0️⃣1️⃣",
                 "رایگان | SS | @yaney_01 | FR🇫🇷 | 0️⃣2️⃣",
-                "رایگان | SS | @yaney_01 | SG🇸🇬 | 0️⃣3️⃣",
-                "رایگان | SS | @forwardv2ray | SG🇸🇬 | 0️⃣1️⃣"
+                "رایگان | SS | @yaney_01 | SG🇸🇬 | 0️⃣3️⃣"
             ]
         },
         {
@@ -133,11 +131,9 @@
                 "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | SG🇸🇬 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | TW🇹🇼 | 0️⃣4️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣",
                 "رایگان | SS | @yaney_01 | JP🇯🇵 | 0️⃣1️⃣",
                 "رایگان | SS | @yaney_01 | FR🇫🇷 | 0️⃣2️⃣",
-                "رایگان | SS | @yaney_01 | SG🇸🇬 | 0️⃣3️⃣",
-                "رایگان | SS | @forwardv2ray | SG🇸🇬 | 0️⃣1️⃣"
+                "رایگان | SS | @yaney_01 | SG🇸🇬 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -204,16 +200,6 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣",
-            "type": "shadowsocks",
-            "server": "52.142.146.57",
-            "server_port": 50395,
-            "method": "chacha20-ietf-poly1305",
-            "password": "zpgPBiYXEhOwgwpCTaoTui",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
             "tag": "رایگان | SS | @yaney_01 | JP🇯🇵 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "13.230.132.209",
@@ -240,16 +226,6 @@
             "server_port": 443,
             "method": "aes-256-cfb",
             "password": "amazonskr05",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | SG🇸🇬 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "singapore.telegavpn.org",
-            "server_port": 16759,
-            "method": "chacha20-ietf-poly1305",
-            "password": "nImi4aE8d197XLg4clpMvL",
             "plugin": "",
             "plugin_opts": ""
         },
