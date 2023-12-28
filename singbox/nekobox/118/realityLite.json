@@ -117,7 +117,6 @@
                 "رایگان | REALITY | @lightning6 | CN🇨🇳 | 0️⃣2️⃣",
                 "رایگان | REALITY | @lightning6 | CN🇨🇳 | 0️⃣4️⃣",
                 "رایگان | REALITY | @lightning6 | CN🇨🇳 | 0️⃣6️⃣",
-                "رایگان | REALITY | @v2logy | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @UnlimitedDev | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2ray_swhil | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @DailyV2RY | DE🇩🇪 | 0️⃣2️⃣",
@@ -143,7 +142,6 @@
                 "رایگان | REALITY | @lightning6 | CN🇨🇳 | 0️⃣2️⃣",
                 "رایگان | REALITY | @lightning6 | CN🇨🇳 | 0️⃣4️⃣",
                 "رایگان | REALITY | @lightning6 | CN🇨🇳 | 0️⃣6️⃣",
-                "رایگان | REALITY | @v2logy | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @UnlimitedDev | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2ray_swhil | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @DailyV2RY | DE🇩🇪 | 0️⃣2️⃣",
@@ -380,41 +378,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@LIGHTNING6",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @v2logy | FI🇫🇮 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "3bia-to3.unlimiteddev.shop",
-            "server_port": 443,
-            "uuid": "64dd6270-7fad-484a-afec-6df13640f847",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ftp.debian.org",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RKhU0jZMW9XxQafA0IL3_Zukqa68SNTZgZDIAG4k0i0",
-                    "short_id": "a80c6877"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@UnlimitedDev",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
