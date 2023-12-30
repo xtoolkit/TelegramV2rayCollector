@@ -1,10 +1,10 @@
 {
-    "date": "2023-12-30 10:51:31",
+    "date": "2023-12-30 11:56:42",
     "points": {
-        "FAKEOFTVC": 55.36780780104583,
-        "VmessProtocol": 52.69290945966569,
+        "FAKEOFTVC": 62.425459089871055,
+        "VmessProtocol": 57.75535862262629,
+        "V2rayCollectorDonate": 5.061079076062759,
         "forwardv2ray": 4.068830551368334,
-        "V2rayCollectorDonate": 4.049097214546151,
-        "kingofilter": 1.014237773810741
+        "kingofilter": 2.030126769792638
     }
 }
