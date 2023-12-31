@@ -123,7 +123,7 @@
             "outbounds": [
                 "رایگان | TROJAN | @V2rayCollectorDonate | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @yaney_01 | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @yaney_01 | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣",
@@ -157,7 +157,7 @@
             "outbounds": [
                 "رایگان | TROJAN | @V2rayCollectorDonate | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @yaney_01 | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @yaney_01 | CA🇨🇦 | 0️⃣2️⃣"
             ],
@@ -314,7 +314,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣6️⃣",
+            "tag": "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "tgju.org",
             "server_port": 443,
