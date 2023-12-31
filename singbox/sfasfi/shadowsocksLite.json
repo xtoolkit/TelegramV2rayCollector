@@ -111,8 +111,6 @@
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣6️⃣",
-                "رایگان | SS | @forwardv2ray | UA🇺🇦 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣"
             ]
@@ -126,8 +124,6 @@
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣6️⃣",
-                "رایگان | SS | @forwardv2ray | UA🇺🇦 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣"
             ],
@@ -178,30 +174,10 @@
         {
             "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣",
             "type": "shadowsocks",
-            "server": "51.141.100.85",
-            "server_port": 28521,
-            "method": "chacha20-ietf-poly1305",
-            "password": "NK4KTpH4GbWznkJywV7VmA",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣6️⃣",
-            "type": "shadowsocks",
             "server": "uk1.ssproxy.xyz",
             "server_port": 8388,
             "method": "chacha20-ietf-poly1305",
             "password": "NjJkZmYw",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | UA🇺🇦 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "193.0.61.96",
-            "server_port": 51348,
-            "method": "chacha20-ietf-poly1305",
-            "password": "7yODRDBX8jWcqPrygj1RnEHJfPcD1LEAOb4yS7IE2gVONP9o",
             "plugin": "",
             "plugin_opts": ""
         },
