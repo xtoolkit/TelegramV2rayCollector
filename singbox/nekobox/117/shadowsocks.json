@@ -109,8 +109,7 @@
                 "CH🇨🇭",
                 "AT🇦🇹",
                 "GB🇬🇧",
-                "DE🇩🇪",
-                "US🇺🇸"
+                "DE🇩🇪"
             ]
         },
         {
@@ -122,9 +121,7 @@
                 "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣3️⃣"
+                "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -175,18 +172,7 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "US🇺🇸",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -243,29 +229,9 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "49.13.162.117",
-            "server_port": 2052,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Y7rJ3NT367Ev71sumHwrhiY2PnrA+FNSzssBLLBhN9U=",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
             "tag": "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "passconf.xyz",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "qGjmI8WQlF0tfhDbkLqGdN",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣3️⃣",
-            "type": "shadowsocks",
-            "server": "[::ffff:310d:16af]",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "qGjmI8WQlF0tfhDbkLqGdN",
