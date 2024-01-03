@@ -113,9 +113,8 @@
                 "TR🇹🇷",
                 "CA🇨🇦",
                 "DE🇩🇪",
-                "FI🇫🇮",
                 "NL🇳🇱",
-                "SE🇸🇪",
+                "FI🇫🇮",
                 "US🇺🇸",
                 "NO🇳🇴",
                 "LV🇱🇻",
@@ -128,7 +127,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @reality_daily | TR🇹🇷 | 0️⃣1️⃣",
-                "رایگان | REALITY | @flyv2ray | TR🇹🇷 | 0️⃣6️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | TR🇹🇷 | 1️⃣0️⃣1️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | TR🇹🇷 | 1️⃣0️⃣3️⃣",
                 "رایگان | REALITY | @frev2ray | CA🇨🇦 | 0️⃣5️⃣",
@@ -145,14 +143,10 @@
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @testreality | Donated | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @Outlinev2rayNG | FI🇫🇮 | 0️⃣2️⃣",
-                "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @nofiltering2 | NL🇳🇱 | 0️⃣4️⃣",
                 "رایگان | REALITY | @nofiltering2 | NL🇳🇱 | 0️⃣5️⃣",
                 "رایگان | REALITY | @sarina_esmailzadeh | Donated | NL🇳🇱 | 0️⃣1️⃣",
-                "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | US🇺🇸 | 0️⃣8️⃣",
@@ -322,7 +316,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @reality_daily | TR🇹🇷 | 0️⃣1️⃣",
-                "رایگان | REALITY | @flyv2ray | TR🇹🇷 | 0️⃣6️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | TR🇹🇷 | 1️⃣0️⃣1️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | TR🇹🇷 | 1️⃣0️⃣3️⃣"
             ],
@@ -363,17 +356,6 @@
             "tolerance": 50
         },
         {
-            "tag": "FI🇫🇮",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @Outlinev2rayNG | FI🇫🇮 | 0️⃣2️⃣",
-                "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
             "tag": "NL🇳🇱",
             "type": "urltest",
             "outbounds": [
@@ -386,12 +368,10 @@
             "tolerance": 50
         },
         {
-            "tag": "SE🇸🇪",
+            "tag": "FI🇫🇮",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣1️⃣"
+                "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -627,41 +607,6 @@
                     "public_key": "KOgeIcWtuMJnTsRT3KgjyTQaieZPikCCiI3XZeIMrxE",
                     "short_id": "346b3063"
                 }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @flyv2ray | TR🇹🇷 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "tk.dwv2ray.site",
-            "server_port": 443,
-            "uuid": "76408ff4-d39d-44a7-9666-78b88fb4c18f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "eSq2viks3QTjVd77cFKfenQfxAL2JBxoJX9xxblcsno",
-                    "short_id": "7b6e4dd3"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Dr.Phone",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
@@ -1176,76 +1121,6 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Outlinev2rayNG | FI🇫🇮 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "65.21.146.248",
-            "server_port": 443,
-            "uuid": "fa86036b-fe46-467c-e359-749e4d996f6b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mihanyas.ir",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TQjiOIf7-e7Dr8xUAZVRtxm-IkfBb6M6JYndcnDfgGI",
-                    "short_id": "1b27a6b1"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@ipV2Ray",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "footlo.argha-v2pedia.monster",
-            "server_port": 443,
-            "uuid": "6ad624f4-c1e0-4911-e3fd-f0e9d797991b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "tuyacn.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "muEtUEPnEMopCqdrhYWMzzwBsAfjZ_NV1m-AnO1byxk",
-                    "short_id": "da"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
             "tag": "رایگان | REALITY | @nofiltering2 | NL🇳🇱 | 0️⃣4️⃣",
             "type": "vless",
             "server": "185.167.98.190",
@@ -1330,12 +1205,12 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
             "type": "vless",
-            "server": "5.42.86.225",
+            "server": "footlo.argha-v2pedia.monster",
             "server_port": 443,
-            "uuid": "38c20917-f773-41da-95f0-f24a58e206ec",
-            "flow": "xtls-rprx-vision",
+            "uuid": "6ad624f4-c1e0-4911-e3fd-f0e9d797991b",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -1344,7 +1219,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "aws.amazon.com",
+                "server_name": "tuyacn.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -1352,65 +1227,16 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "6_5ZMSz2jQ7AVokjr2ggOQ6d1qgYwisbDNykHmWO50A",
-                    "short_id": "8f76ccf5bc66820d"
+                    "public_key": "muEtUEPnEMopCqdrhYWMzzwBsAfjZ_NV1m-AnO1byxk",
+                    "short_id": "da"
                 }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "5.42.86.225",
-            "server_port": 6280,
-            "uuid": "fb4ca992-6ef8-4060-b196-63b93442f0dc",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "10to8.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "6_5ZMSz2jQ7AVokjr2ggOQ6d1qgYwisbDNykHmWO50A",
-                    "short_id": "8f76ccf5bc66820d"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "5.42.86.225",
-            "server_port": 6280,
-            "uuid": "f326ee09-0dfd-400b-b691-f45c6ad1120f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "10to8.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "z6wm0GYJSuCs248OOsDt-IYI__H372BsHkw-5fxc9nw",
-                    "short_id": "0837d01ec9975321"
-                }
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
