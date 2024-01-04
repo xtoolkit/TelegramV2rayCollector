@@ -1,12 +1,13 @@
 {
-    "date": "2024-01-04 12:54:51",
+    "date": "2024-01-04 13:55:43",
     "points": {
-        "PrivateVPNs": 84.73662496769586,
-        "DirectVPN": 70.61747313465636,
-        "V2rayCollectorDonate": 55.012034520995655,
-        "oneclickvpnkeys": 45.662527940067044,
-        "yaney_01": 42.43717957156174,
+        "PrivateVPNs": 90.80183784815864,
+        "DirectVPN": 76.68602133489789,
+        "V2rayCollectorDonate": 59.97660856790894,
+        "oneclickvpnkeys": 47.70242010492019,
+        "yaney_01": 45.46358780100614,
         "VmessProtocol": 9.102852751037927,
-        "forwardv2ray": 1.0082630098452883
+        "ConfigsHUB": 3.0247136567174313,
+        "forwardv2ray": 3.0219206915129613
     }
 }
