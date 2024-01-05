@@ -179,7 +179,7 @@
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣8️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣9️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 5️⃣0️⃣",
-                "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @v2ray_swhil | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
@@ -194,6 +194,7 @@
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣3️⃣",
@@ -284,7 +285,7 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @v2ray_swhil | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
@@ -317,6 +318,7 @@
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣3️⃣",
@@ -1916,7 +1918,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣6️⃣",
             "type": "vless",
             "server": "free01.miraclev2ray.online",
             "server_port": 443,
@@ -2311,6 +2313,34 @@
             "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣5️⃣",
             "type": "vless",
             "server": "5.42.86.225",
+            "server_port": 2058,
+            "uuid": "bf16228b-d61a-4550-ab2f-2cbbc97114ab",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "nachtzug.net",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "6_5ZMSz2jQ7AVokjr2ggOQ6d1qgYwisbDNykHmWO50A",
+                    "short_id": "8f76ccf5bc66820d"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣6️⃣",
+            "type": "vless",
+            "server": "5.42.86.225",
             "server_port": 6272,
             "uuid": "1e87c41e-f15d-4fa1-b11d-daa619db65e2",
             "flow": "xtls-rprx-vision",
@@ -2336,7 +2366,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣6️⃣",
+            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣7️⃣",
             "type": "vless",
             "server": "5.42.86.225",
             "server_port": 6280,
