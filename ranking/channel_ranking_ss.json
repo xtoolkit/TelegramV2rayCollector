@@ -1,10 +1,10 @@
 {
-    "date": "2024-01-05 14:50:52",
+    "date": "2024-01-05 16:05:37",
     "points": {
-        "VmessProtocol": 38.472976473768824,
-        "kingofilter": 30.855610342441395,
+        "VmessProtocol": 40.493400262340096,
+        "kingofilter": 32.87467512514473,
+        "V2rayCollectorDonate": 15.314115116202714,
         "forwardv2ray": 10.60078611280834,
-        "V2rayCollectorDonate": 9.186343893751637,
-        "proxy_mtm": 1.0163484032249435
+        "proxy_mtm": 2.031930479197345
     }
 }
