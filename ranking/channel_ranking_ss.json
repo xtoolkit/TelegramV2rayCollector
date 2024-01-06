@@ -1,13 +1,13 @@
 {
-    "date": "2024-01-06 22:49:32",
+    "date": "2024-01-06 23:54:22",
     "points": {
+        "servermomo": 138.16876490501795,
         "V2rayCollectorDonate": 135.81140982448403,
-        "servermomo": 132.1245635450981,
-        "FAKEOFTVC": 124.45104628800225,
-        "kingofilter": 74.79473635245992,
-        "VmessProtocol": 65.49569954141032,
+        "FAKEOFTVC": 128.48311454873428,
+        "kingofilter": 78.82265940141542,
+        "VmessProtocol": 69.52985768486307,
         "forwardv2ray": 31.414216565245557,
-        "proxy_mtm": 5.08947396001007,
-        "OutlineVpnOfficial": 2.016458615825269
+        "proxy_mtm": 10.15063925097921,
+        "OutlineVpnOfficial": 3.0222395255513246
     }
 }
