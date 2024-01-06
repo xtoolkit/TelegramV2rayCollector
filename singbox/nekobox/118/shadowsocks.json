@@ -115,8 +115,9 @@
                 "FR🇫🇷",
                 "RU🇷🇺",
                 "NL🇳🇱",
-                "ES🇪🇸",
                 "TR🇹🇷",
+                "DE🇩🇪",
+                "ES🇪🇸",
                 "HR🇭🇷",
                 "AM🇦🇲"
             ]
@@ -139,8 +140,10 @@
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | SS | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | TR🇹🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | TR🇹🇷 | 0️⃣3️⃣",
+                "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | SS | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | HR🇭🇷 | 0️⃣5️⃣",
                 "رایگان | SS | @FAKEOFTVC | AM🇦🇲 | 0️⃣6️⃣"
             ],
@@ -208,20 +211,31 @@
             "tolerance": 50
         },
         {
-            "tag": "ES🇪🇸",
+            "tag": "TR🇹🇷",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣"
+                "رایگان | SS | @forwardv2ray | TR🇹🇷 | 0️⃣1️⃣",
+                "رایگان | SS | @FAKEOFTVC | TR🇹🇷 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "TR🇹🇷",
+            "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @FAKEOFTVC | TR🇹🇷 | 0️⃣3️⃣"
+                "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "ES🇪🇸",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -388,12 +402,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | TR🇹🇷 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "92.38.171.89",
-            "server_port": 989,
+            "server": "45.89.52.66",
+            "server_port": 9041,
             "method": "aes-256-cfb",
-            "password": "f8f7aCzcPKbsF8p3",
+            "password": "U6qnYRhfyDmn8sgn",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -404,6 +418,26 @@
             "server_port": 9043,
             "method": "aes-256-cfb",
             "password": "HSZuyJQcWe8dxNdF",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
+            "type": "shadowsocks",
+            "server": "masting.xyz",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "XvK0ltH67Xhv9ht9RhYsFy",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣",
+            "type": "shadowsocks",
+            "server": "92.38.171.89",
+            "server_port": 989,
+            "method": "aes-256-cfb",
+            "password": "f8f7aCzcPKbsF8p3",
             "plugin": "",
             "plugin_opts": ""
         },
