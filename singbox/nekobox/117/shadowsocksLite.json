@@ -118,12 +118,12 @@
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣3️⃣",
+                "رایگان | SS | @forwardv2ray | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @FAKEOFTVC | TR🇹🇷 | 0️⃣3️⃣",
-                "رایگان | SS | @FAKEOFTVC | FR🇫🇷 | 0️⃣4️⃣",
-                "رایگان | SS | @FAKEOFTVC | HR🇭🇷 | 0️⃣5️⃣",
-                "رایگان | SS | @FAKEOFTVC | AM🇦🇲 | 0️⃣6️⃣",
+                "رایگان | SS | @FAKEOFTVC | FR🇫🇷 | 0️⃣3️⃣",
+                "رایگان | SS | @FAKEOFTVC | HR🇭🇷 | 0️⃣4️⃣",
+                "رایگان | SS | @FAKEOFTVC | AM🇦🇲 | 0️⃣5️⃣",
                 "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣",
@@ -148,12 +148,12 @@
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣3️⃣",
+                "رایگان | SS | @forwardv2ray | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣",
-                "رایگان | SS | @FAKEOFTVC | TR🇹🇷 | 0️⃣3️⃣",
-                "رایگان | SS | @FAKEOFTVC | FR🇫🇷 | 0️⃣4️⃣",
-                "رایگان | SS | @FAKEOFTVC | HR🇭🇷 | 0️⃣5️⃣",
-                "رایگان | SS | @FAKEOFTVC | AM🇦🇲 | 0️⃣6️⃣",
+                "رایگان | SS | @FAKEOFTVC | FR🇫🇷 | 0️⃣3️⃣",
+                "رایگان | SS | @FAKEOFTVC | HR🇭🇷 | 0️⃣4️⃣",
+                "رایگان | SS | @FAKEOFTVC | AM🇦🇲 | 0️⃣5️⃣",
                 "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣",
@@ -295,6 +295,16 @@
             "plugin_opts": ""
         },
         {
+            "tag": "رایگان | SS | @forwardv2ray | FI🇫🇮 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "65.21.183.216",
+            "server_port": 45793,
+            "method": "aes-128-gcm",
+            "password": "@ZEDMODEON",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
             "tag": "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "51.15.27.48",
@@ -315,17 +325,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | TR🇹🇷 | 0️⃣3️⃣",
-            "type": "shadowsocks",
-            "server": "45.89.52.66",
-            "server_port": 9043,
-            "method": "aes-256-cfb",
-            "password": "HSZuyJQcWe8dxNdF",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @FAKEOFTVC | FR🇫🇷 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | FR🇫🇷 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "51.159.111.208",
             "server_port": 989,
@@ -335,7 +335,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | HR🇭🇷 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | HR🇭🇷 | 0️⃣4️⃣",
             "type": "shadowsocks",
             "server": "46.183.184.60",
             "server_port": 989,
@@ -345,7 +345,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | AM🇦🇲 | 0️⃣6️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | AM🇦🇲 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "146.185.248.22",
             "server_port": 989,
