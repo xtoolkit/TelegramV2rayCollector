@@ -111,11 +111,11 @@
                 "RU🇷🇺",
                 "NL🇳🇱",
                 "AT🇦🇹",
+                "IE🇮🇪",
                 "ES🇪🇸",
                 "TR🇹🇷",
                 "FR🇫🇷",
-                "HR🇭🇷",
-                "AM🇦🇲"
+                "HR🇭🇷"
             ]
         },
         {
@@ -123,13 +123,15 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @servermomo | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @servermomo | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | SS | @servermomo | GB🇬🇧 | 0️⃣6️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
+                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣2️⃣",
@@ -137,11 +139,11 @@
                 "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | IE🇮🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | TR🇹🇷 | 0️⃣3️⃣",
                 "رایگان | SS | @FAKEOFTVC | FR🇫🇷 | 0️⃣4️⃣",
-                "رایگان | SS | @FAKEOFTVC | HR🇭🇷 | 0️⃣5️⃣",
-                "رایگان | SS | @FAKEOFTVC | AM🇦🇲 | 0️⃣6️⃣"
+                "رایگان | SS | @FAKEOFTVC | HR🇭🇷 | 0️⃣5️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -152,8 +154,9 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @servermomo | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @servermomo | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | SS | @servermomo | GB🇬🇧 | 0️⃣6️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
+                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣3️⃣"
@@ -168,6 +171,7 @@
             "outbounds": [
                 "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -217,6 +221,16 @@
             "tolerance": 50
         },
         {
+            "tag": "IE🇮🇪",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @forwardv2ray | IE🇮🇪 | 0️⃣1️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
             "tag": "ES🇪🇸",
             "type": "urltest",
             "outbounds": [
@@ -257,16 +271,6 @@
             "tolerance": 50
         },
         {
-            "tag": "AM🇦🇲",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @FAKEOFTVC | AM🇦🇲 | 0️⃣6️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
             "tag": "رایگان | SS | @servermomo | GB🇬🇧 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "51.142.73.20",
@@ -277,7 +281,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @servermomo | GB🇬🇧 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @servermomo | GB🇬🇧 | 0️⃣6️⃣",
             "type": "shadowsocks",
             "server": "51.145.68.57",
             "server_port": 13751,
@@ -293,6 +297,16 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "Bog0ELmMM9DSxDdQ",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣2️⃣",
+            "type": "shadowsocks",
+            "server": "series-a2-mec.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "u17T3BvpYaaiuW2c",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -338,6 +352,16 @@
         },
         {
             "tag": "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣4️⃣",
+            "type": "shadowsocks",
+            "server": "154.7.179.11",
+            "server_port": 7777,
+            "method": "chacha20-ietf-poly1305",
+            "password": "39459633-d825-4778-bf72-175aa1ef3737",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "38.68.134.202",
             "server_port": 8091,
@@ -417,6 +441,16 @@
             "plugin_opts": ""
         },
         {
+            "tag": "رایگان | SS | @forwardv2ray | IE🇮🇪 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "54.171.29.16",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "YRLEc4AxMgtwPOrnAr3Yoj",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
             "tag": "رایگان | SS | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "92.38.171.89",
@@ -450,16 +484,6 @@
             "tag": "رایگان | SS | @FAKEOFTVC | HR🇭🇷 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "46.183.184.60",
-            "server_port": 989,
-            "method": "aes-256-cfb",
-            "password": "f8f7aCzcPKbsF8p3",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @FAKEOFTVC | AM🇦🇲 | 0️⃣6️⃣",
-            "type": "shadowsocks",
-            "server": "146.185.248.22",
             "server_port": 989,
             "method": "aes-256-cfb",
             "password": "f8f7aCzcPKbsF8p3",
