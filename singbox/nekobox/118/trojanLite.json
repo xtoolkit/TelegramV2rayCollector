@@ -132,7 +132,9 @@
                 "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣5️⃣"
+                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣7️⃣"
             ]
         },
         {
@@ -161,7 +163,9 @@
                 "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣5️⃣"
+                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -523,7 +527,7 @@
             "type": "trojan",
             "server": "dns.rasha.cfd",
             "server_port": 443,
-            "password": "HoJYR8r1fe",
+            "password": "dtDzyW1zKj",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -531,7 +535,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "6354941726.ganjhozor.shop",
+                "server_name": "8392730871.ganjhozor.shop",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -540,7 +544,7 @@
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "62019138",
+                "service_name": "87966074",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
@@ -551,7 +555,7 @@
             "type": "trojan",
             "server": "dns.rasha.cfd",
             "server_port": 443,
-            "password": "wY0tpfwWCu",
+            "password": "oo9JgSSgWu",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -559,7 +563,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "5970625804.ganjhozor.shop",
+                "server_name": "6401882040.ganjhozor.shop",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -568,7 +572,7 @@
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "69864291",
+                "service_name": "52601678",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
@@ -579,7 +583,7 @@
             "type": "trojan",
             "server": "dns.rasha.cfd",
             "server_port": 443,
-            "password": "UbUkiVMg9a",
+            "password": "5Bz2L8ygBa",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -587,7 +591,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "9649284771.ganjhozor.shop",
+                "server_name": "4993476043.ganjhozor.shop",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -596,7 +600,7 @@
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "91086875",
+                "service_name": "77884046",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
@@ -607,7 +611,7 @@
             "type": "trojan",
             "server": "dns.rasha.cfd",
             "server_port": 443,
-            "password": "bL5Vt79WRO",
+            "password": "LipWnjKRFy",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -615,7 +619,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "7856291457.ganjhozor.shop",
+                "server_name": "6417629074.ganjhozor.shop",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -624,7 +628,7 @@
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "19218178",
+                "service_name": "16817481",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
@@ -635,7 +639,7 @@
             "type": "trojan",
             "server": "dns.rasha.cfd",
             "server_port": 443,
-            "password": "bSqZFnlv4s",
+            "password": "d8HV9NSohi",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -643,7 +647,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "4249871283.ganjhozor.shop",
+                "server_name": "3589357190.ganjhozor.shop",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -652,7 +656,63 @@
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "88971756",
+                "service_name": "74634652",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣6️⃣",
+            "type": "trojan",
+            "server": "dns.rasha.cfd",
+            "server_port": 443,
+            "password": "vwdbCom3JC",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "6844013058.ganjhozor.shop",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "55310153",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣7️⃣",
+            "type": "trojan",
+            "server": "dns.rasha.cfd",
+            "server_port": 443,
+            "password": "uS1EI7yWmJ",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "2374479517.ganjhozor.shop",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "90217242",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
