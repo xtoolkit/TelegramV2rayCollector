@@ -128,12 +128,11 @@
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣8️⃣",
-                "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣3️⃣",
@@ -247,12 +246,11 @@
             "tag": "SE🇸🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣3️⃣",
@@ -609,7 +607,119 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "132-Join.V2RayTz.sbs",
+            "server_port": 443,
+            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "coinmarketcap.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Y_EDAjYZVKJbTZ2VB6T6uP3vTQnCGXFU4DnBlvxWvhs",
+                    "short_id": "1db3"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣4️⃣",
+            "type": "vless",
+            "server": "131-Join.V2RayTz.sbs",
+            "server_port": 443,
+            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "coinmarketcap.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "gsv3AGo3mz1gJ7wg-9yhpQgjXPdOFuFXE40R_HMiIn0",
+                    "short_id": "1db3"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣5️⃣",
+            "type": "vless",
+            "server": "130-Join.V2RayTz.sbs",
+            "server_port": 443,
+            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "coinmarketcap.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "n0wpWssnogSOb8GQ_Beib0zoa2eBG5n8neJ5Cd_6KHI",
+                    "short_id": "1db3"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣6️⃣",
+            "type": "vless",
+            "server": "129-Join.V2RayTz.sbs",
+            "server_port": 443,
+            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "coinmarketcap.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "a0HNz4nqwMocjpOIEcyNtmAfIjmjIcI4h9AhDx2F_SM",
+                    "short_id": "1db3"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣7️⃣",
             "type": "vless",
             "server": "128-Join.V2RayTz.sbs",
             "server_port": 443,
@@ -632,146 +742,6 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "VghMH03LmbVepqt4Czo8qQuIoRNKDdGsb8TQC0vZh3A",
-                    "short_id": "1db3"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "127-Join.V2RayTz.sbs",
-            "server_port": 443,
-            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "coinmarketcap.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "3_S4RTy1XXteh7r3oEEyMGUzlNh9piAOrhx8WDHwuyQ",
-                    "short_id": "1db3"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "126-Join.V2RayTz.sbs",
-            "server_port": 443,
-            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "coinmarketcap.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "p_TkMe6Q0M-mEU0ohXev9YSbIzvlrpfonqQ9C6ptw0I",
-                    "short_id": "1db3"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣4️⃣",
-            "type": "vless",
-            "server": "125-Join.V2RayTz.sbs",
-            "server_port": 443,
-            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "coinmarketcap.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ICh6itldU-Ehl0qTpjw2t8ZEuhfYcIWBkxGL1P_zLms",
-                    "short_id": "1db3"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣5️⃣",
-            "type": "vless",
-            "server": "124-Join.V2RayTz.sbs",
-            "server_port": 443,
-            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "coinmarketcap.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "k7St9Xcx7CAq3AMnn4Z5jYtfoeKaeXiL0ecx4ekaNEI",
-                    "short_id": "1db3"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "123-Join.V2RayTz.sbs",
-            "server_port": 443,
-            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "coinmarketcap.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "rrxaevH9D_L-Pnhfzkp2ZymkrYxtsJjVDRaeNm4PNAc",
                     "short_id": "1db3"
                 }
             }
