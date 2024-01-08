@@ -1,11 +1,11 @@
 {
-    "date": "2024-01-08 16:57:39",
+    "date": "2024-01-08 17:52:33",
     "points": {
-        "servermomo": 116.46052207775313,
+        "servermomo": 123.77599445920434,
+        "kingofilter": 100.97032595338683,
         "proxy_mtm": 99.57781982228266,
-        "kingofilter": 94.90352041016808,
-        "VmessProtocol": 83.25076353376751,
-        "OutlineVpnOfficial": 63.773742326864735,
-        "forwardv2ray": 8.084223178022073
+        "VmessProtocol": 86.28061245478266,
+        "OutlineVpnOfficial": 67.81821480489343,
+        "forwardv2ray": 11.122460394141564
     }
 }
