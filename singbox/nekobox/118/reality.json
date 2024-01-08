@@ -114,7 +114,6 @@
                 "DE🇩🇪",
                 "SE🇸🇪",
                 "FR🇫🇷",
-                "GB🇬🇧",
                 "FI🇫🇮",
                 "US🇺🇸",
                 "TR🇹🇷",
@@ -161,7 +160,6 @@
                 "رایگان | REALITY | @sepideh_qolian(nazri) | Donated | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @shahid_ehsan(nazri) | Donated | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @shahid_ehsan(nazri) | Donated | FR🇫🇷 | 0️⃣2️⃣",
-                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | US🇺🇸 | 0️⃣6️⃣",
@@ -290,16 +288,6 @@
                 "رایگان | REALITY | @sepideh_qolian(nazri) | Donated | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @shahid_ehsan(nazri) | Donated | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @shahid_ehsan(nazri) | Donated | FR🇫🇷 | 0️⃣2️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "GB🇬🇧",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -1413,41 +1401,6 @@
                     "public_key": "UWcn5zNzJRH-DxuZ4coJ3xmKPh1VKU2jFUeHNAqDDBU",
                     "short_id": "841840cfd3f2bb62"
                 }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "139.59.166.59",
-            "server_port": 11111,
-            "uuid": "4b9a75bf-dfa6-4481-9e7e-22cf5e95edc0",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Bc8ZKfJ-OffpjVWWcw9JYOea5OU7e7djqA6EfQehJHI",
-                    "short_id": "adc65635"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "www.Omid.Org",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
