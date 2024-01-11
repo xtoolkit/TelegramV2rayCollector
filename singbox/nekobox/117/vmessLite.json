@@ -128,6 +128,7 @@
                 "رایگان | VMESS | @SafeNet_Server | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VMESS | @SafeNet_Server | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | VMESS | @ConfigsHUB | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | VMESS | @ConfigsHUB | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣3️⃣",
@@ -135,6 +136,8 @@
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣5️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣6️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣7️⃣",
+                "رایگان | VMESS | @Hope_Net | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | VMESS | @Hope_Net | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VMESS | @v2Line | EE🇪🇪 | 0️⃣1️⃣",
                 "رایگان | VMESS | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @FAKEOFTVC | CA🇨🇦 | 0️⃣2️⃣",
@@ -179,6 +182,7 @@
                 "رایگان | VMESS | @SafeNet_Server | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VMESS | @SafeNet_Server | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | VMESS | @ConfigsHUB | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | VMESS | @ConfigsHUB | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣3️⃣",
@@ -186,6 +190,8 @@
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣5️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣6️⃣",
                 "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣7️⃣",
+                "رایگان | VMESS | @Hope_Net | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | VMESS | @Hope_Net | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VMESS | @v2Line | EE🇪🇪 | 0️⃣1️⃣",
                 "رایگان | VMESS | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @FAKEOFTVC | CA🇨🇦 | 0️⃣2️⃣",
@@ -823,9 +829,9 @@
         {
             "tag": "رایگان | VMESS | @ConfigsHUB | CA🇨🇦 | 0️⃣1️⃣",
             "type": "vmess",
-            "server": "104.21.91.254",
+            "server": "104.21.91.73",
             "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "uuid": "45f63e92-f782-4cac-84b8-e61cb5a5bfd0",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -838,7 +844,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "waynn.makeup",
+                "server_name": "adenc35.fixedlfoat.top",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -848,11 +854,37 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/linkvws",
+                "path": "\/linkws",
                 "headers": {
-                    "Host": "waynn.makeup"
+                    "Host": "adenc35.fixedlfoat.top"
                 },
                 "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VMESS | @ConfigsHUB | CA🇨🇦 | 0️⃣2️⃣",
+            "type": "vmess",
+            "server": "173.245.58.34",
+            "server_port": 2052,
+            "uuid": "Telegram-V2ray_alpha",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "join.code-v2.cfd"
+                },
+                "max_early_data": 2048,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
@@ -1103,6 +1135,58 @@
                 "path": "\/f81447b2-5466-483c-bf86-ef9832b389dd-vmess",
                 "headers": {
                     "Host": "www.applefoods.gay"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VMESS | @Hope_Net | CA🇨🇦 | 0️⃣2️⃣",
+            "type": "vmess",
+            "server": "cname.volcengine.eu.org",
+            "server_port": 80,
+            "uuid": "ebc8ef6e-961d-4315-9258-46fb81605bd7",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/centos\/7.9.2009\/isos\/x86_64\/CentOS-7-x86_64-Minimal-2009.iso",
+                "headers": {
+                    "Host": "jp3-amazonwebservices.volcengine.eu.org"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VMESS | @Hope_Net | CA🇨🇦 | 0️⃣3️⃣",
+            "type": "vmess",
+            "server": "cname.volcengine.eu.org",
+            "server_port": 80,
+            "uuid": "ebc8ef6e-961d-4315-9258-46fb81605bd7",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/centos\/7.9.2009\/isos\/x86_64\/CentOS-7-x86_64-Minimal-2009.iso",
+                "headers": {
+                    "Host": "ca2-amazonwebservices.volcengine.eu.org"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
