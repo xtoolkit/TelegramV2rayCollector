@@ -106,15 +106,15 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣7️⃣",
+                "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣9️⃣",
                 "رایگان | REALITY | @ShadowProxy66 | KR🇰🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @ShadowProxy66 | SG🇸🇬 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣5️⃣",
+                "رایگان | REALITY | @DailyV2RY | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @mehrosaboran | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣6️⃣",
@@ -178,22 +178,23 @@
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣7️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣8️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣9️⃣",
-                "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 5️⃣0️⃣"
+                "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 5️⃣0️⃣",
+                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣1️⃣"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣7️⃣",
+                "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣9️⃣",
                 "رایگان | REALITY | @ShadowProxy66 | KR🇰🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @ShadowProxy66 | SG🇸🇬 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣5️⃣",
+                "رایگان | REALITY | @DailyV2RY | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @mehrosaboran | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣6️⃣",
@@ -257,14 +258,15 @@
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣7️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣8️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣9️⃣",
-                "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 5️⃣0️⃣"
+                "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 5️⃣0️⃣",
+                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣7️⃣",
+            "tag": "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣9️⃣",
             "type": "vless",
             "server": "91.107.248.118",
             "server_port": 10723,
@@ -383,6 +385,41 @@
             }
         },
         {
+            "tag": "رایگان | REALITY | @DailyV2RY | CA🇨🇦 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "162.159.136.232",
+            "server_port": 2053,
+            "uuid": "75521963-2c73-4800-bf71-9b26e65b44c2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zpcp.gothvvc.site",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "r9xqYf3TXGXiuUiWewGsA2uMGgqC_WVZOn9WLojL10Q",
+                    "short_id": "9d307375"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "microsoft.com",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
             "tag": "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
             "type": "vless",
             "server": "kamyarservers.camdvr.org",
@@ -491,8 +528,8 @@
             "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣1️⃣",
             "type": "vless",
             "server": "5.42.86.225",
-            "server_port": 2052,
-            "uuid": "44219c0f-b3b2-4080-bee1-d4942155fb4c",
+            "server_port": 2053,
+            "uuid": "b1894278-11ba-4b93-b7b9-578b16d36e97",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -502,35 +539,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "taunusgaerten.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "6_5ZMSz2jQ7AVokjr2ggOQ6d1qgYwisbDNykHmWO50A",
-                    "short_id": "8f76ccf5bc66820d"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "5.42.86.225",
-            "server_port": 2058,
-            "uuid": "bf16228b-d61a-4550-ab2f-2cbbc97114ab",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "nachtzug.net",
+                "server_name": "pantercon.net",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -911,8 +920,8 @@
             "tag": "رایگان | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣1️⃣",
             "type": "vless",
             "server": "5.42.86.225",
-            "server_port": 2052,
-            "uuid": "dd405cb9-298a-44be-b28b-20f1516c1314",
+            "server_port": 2058,
+            "uuid": "0fd1d201-034e-4188-9d90-8dcb5c31cfb4",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -922,7 +931,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "taunusgaerten.com",
+                "server_name": "nachtzug.net",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -2360,6 +2369,34 @@
                     "enabled": true,
                     "public_key": "8YsMg-jrGdI36OavM1Doc7aD9coSyL5ZmbbmrrmvEA8",
                     "short_id": "6ada71bdddf5ea25"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣1️⃣",
+            "type": "vless",
+            "server": "5.42.86.225",
+            "server_port": 22,
+            "uuid": "2c34ea48-6f40-4aa3-9ddb-69718b48c3f8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ftp.debian.org",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "1yjMDe_3ZcrJDc4fGqWPmy-udJRLW502p2EjplmCWx8",
+                    "short_id": "76753364"
                 }
             }
         },
