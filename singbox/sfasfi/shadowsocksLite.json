@@ -110,15 +110,14 @@
                 "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | AM🇦🇲 | 0️⃣1️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | SS | @V2rayCollectorDonate | AZ🇦🇿 | 0️⃣3️⃣",
-                "رایگان | SS | @V2rayCollectorDonate | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | SS | @V2rayCollectorDonate | SE🇸🇪 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣4️⃣",
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣2️⃣"
             ]
@@ -131,15 +130,14 @@
                 "رایگان | SS | @servermomo | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | AM🇦🇲 | 0️⃣1️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | SS | @V2rayCollectorDonate | AZ🇦🇿 | 0️⃣3️⃣",
-                "رایگان | SS | @V2rayCollectorDonate | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | SS | @V2rayCollectorDonate | SE🇸🇪 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣4️⃣",
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣2️⃣"
             ],
@@ -188,17 +186,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @V2rayCollectorDonate | AZ🇦🇿 | 0️⃣3️⃣",
-            "type": "shadowsocks",
-            "server": "180.149.44.120",
-            "server_port": 989,
-            "method": "aes-256-cfb",
-            "password": "f8f7aCzcPKbsF8p3",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @V2rayCollectorDonate | SE🇸🇪 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @V2rayCollectorDonate | SE🇸🇪 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "121.127.46.147",
             "server_port": 989,
@@ -268,12 +256,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "beeconf.xyz",
-            "server_port": 8080,
+            "server": "series-a2-mec.samanehha.co",
+            "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "ezesBXesf3RKBCp1vqKuIx",
+            "password": "u17T3BvpYaaiuW2c",
             "plugin": "",
             "plugin_opts": ""
         },
