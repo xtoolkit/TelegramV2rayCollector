@@ -109,6 +109,7 @@
                 "US🇺🇸",
                 "AM🇦🇲",
                 "NL🇳🇱",
+                "AZ🇦🇿",
                 "GB🇬🇧",
                 "FR🇫🇷",
                 "DE🇩🇪",
@@ -125,12 +126,13 @@
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | AM🇦🇲 | 0️⃣1️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣2️⃣",
+                "رایگان | SS | @V2rayCollectorDonate | AZ🇦🇿 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | SS | @proxy_mtm | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | SS | @proxy_mtm | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣4️⃣"
             ],
@@ -171,6 +173,16 @@
             "tolerance": 50
         },
         {
+            "tag": "AZ🇦🇿",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @V2rayCollectorDonate | AZ🇦🇿 | 0️⃣3️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
             "tag": "GB🇬🇧",
             "type": "urltest",
             "outbounds": [
@@ -197,7 +209,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | SS | @proxy_mtm | DE🇩🇪 | 0️⃣1️⃣"
+                "رایگان | SS | @proxy_mtm | DE🇩🇪 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -274,6 +286,16 @@
             "plugin_opts": ""
         },
         {
+            "tag": "رایگان | SS | @V2rayCollectorDonate | AZ🇦🇿 | 0️⃣3️⃣",
+            "type": "shadowsocks",
+            "server": "180.149.44.120",
+            "server_port": 989,
+            "method": "aes-256-cfb",
+            "password": "f8f7aCzcPKbsF8p3",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
             "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "series-a2-me.samanehha.co",
@@ -324,7 +346,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @proxy_mtm | DE🇩🇪 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "masting.xyz",
             "server_port": 8080,
