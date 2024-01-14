@@ -123,6 +123,7 @@
                 "رایگان | TROJAN | @V2RayTz | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | FR🇫🇷 | 0️⃣3️⃣",
@@ -151,6 +152,7 @@
                 "رایگان | TROJAN | @V2RayTz | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | FR🇫🇷 | 0️⃣3️⃣",
@@ -556,6 +558,34 @@
                 "path": "\/me",
                 "headers": {
                     "Host": "de6.melobigg.site"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
+            "type": "trojan",
+            "server": "cdn-16.cdn2cdn.com",
+            "server_port": 2083,
+            "password": "gviRoLVUKA5kBX2M0gJSvg",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn16.cdn2cdn.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "cdn16.cdn2cdn.com"
                 }
             }
         },
